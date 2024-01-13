@@ -1,0 +1,1 @@
+import{k as r,b as t,c as a,a3 as c}from"./entry.Mct3wrgb.js";const n={};function o(e,s){return t(),a("em",null,[c(e.$slots,"default",{},void 0,!0)])}const f=r(n,[["render",o],["__scopeId","data-v-96c97a4f"]]);export{f as default};
